@@ -1,0 +1,41 @@
+## ⚙️ 스택
+
+### Environment
+
+- 개발 환경 : Android Studio, IntelliJ IDEA, Visual Studio Code
+- OS : Windows
+
+### Development
+
+- 개발 도구 : Git, Spring Boot, Java SDK, MySQL, Flask
+- 개발 언어 : Java, Kotlin, SQL, Python
+- 기타사항 : Android SDK, Gradle, Google Cloud, Firebase, DeepFace, BigQuery
+
+### Communication
+
+- 형상관리 : GitHub
+- 의사소통 관리 : Discord
+- 협업 관리 : Notion, Google drive
+- 협업 도구 : Figma, ERDCloud
+
+---
+
+## 📺 화면 구성
+
+![스크린샷 2024-09-06 000927.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d0de7562-74ba-4da9-a6f2-6f2a8c7778af/6a584b35-f7f3-473c-b99b-d96c07d25cb0/ade20759-53e4-4bd4-a446-9df008282eae.png)
+
+![스크린샷 2024-09-06 001242.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d0de7562-74ba-4da9-a6f2-6f2a8c7778af/4404e06a-e3f6-4a62-81d9-d9229d0c9ff8/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2024-09-06_001242.png)
+
+![스크린샷 2024-09-06 001113.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d0de7562-74ba-4da9-a6f2-6f2a8c7778af/51d7d65d-908e-43a6-979f-0920276b4d7b/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2024-09-06_001113.png)
+
+---
+
+## ✒️ API
+
+- API 명세서 : [https://makeus-challenge.notion.site/API-ecafb2a8fb8c427c9e78abf6120d674b](https://www.notion.so/API-eaa0057161d443d0af90b464004572a4?pvs=21)
+
+---
+
+## 📝 아키텍쳐
+
+![image01.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d0de7562-74ba-4da9-a6f2-6f2a8c7778af/3cf9e1db-9373-4577-9ac4-8afc97309607/image01.png)
